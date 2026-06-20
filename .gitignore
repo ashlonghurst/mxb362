@@ -1,0 +1,6 @@
+aviation-env/
+*.pyc
+__pycache__/
+*.csv
+*.parquet
+.ipynb_checkpoints/
